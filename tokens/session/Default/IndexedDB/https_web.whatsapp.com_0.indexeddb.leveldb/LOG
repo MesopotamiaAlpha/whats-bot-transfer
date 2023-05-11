@@ -1,0 +1,12 @@
+2023/05/10-22:15:20.958 88a6b Reusing MANIFEST /home/pcprogramacao/Documentos/Projetos/teste-bot/tokens/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/10-22:15:20.958 88a6b Recovering log #7
+2023/05/10-22:15:20.992 88a6b Reusing old log /home/pcprogramacao/Documentos/Projetos/teste-bot/tokens/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000007.log 
+2023/05/10-22:16:31.444 88a6c Level-0 table #13: started
+2023/05/10-22:16:31.474 88a6c Level-0 table #13: 1116172 bytes OK
+2023/05/10-22:16:31.489 88a6c Delete type=0 #7
+2023/05/10-22:16:33.412 88a6c Compacting 1@1 + 1@2 files
+2023/05/10-22:16:33.449 88a6c Generated table #14@1: 21900 keys, 842426 bytes
+2023/05/10-22:16:33.449 88a6c Compacted 1@1 + 1@2 files => 842426 bytes
+2023/05/10-22:16:33.463 88a6c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/10-22:16:33.463 88a6c Delete type=2 #10
+2023/05/10-22:16:33.463 88a6c Delete type=2 #13

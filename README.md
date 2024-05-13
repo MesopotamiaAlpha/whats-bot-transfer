@@ -1,6 +1,6 @@
 # Gerenciador de atendimento por whats
 
-Para instalaçaão da biblioteca
+Para instalação da biblioteca
 ```
 npm install venom-bot qrcode-terminal
 ```
